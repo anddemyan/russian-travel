@@ -8,10 +8,6 @@
   color: #FFFFFF;
 }
 
-.header__link:first-child {
-  margin-right: 16px;
-}
-
 .header__link:hover {
   opacity: 0.8;
 }
